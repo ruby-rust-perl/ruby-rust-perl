@@ -14,6 +14,11 @@
 
 
 </div>
+<style>
+  img {
+    padding: 5px;
+  }
+</style>
 ---
 
 
