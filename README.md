@@ -4,11 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-python-clojure/python-clojure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
 
 ## &#x1f4c8; My GitHub Stats
 
