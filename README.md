@@ -3,10 +3,8 @@
 
 - 👋 Hi, I’m @ruby-zen
 - 👀 I’m interested in Full-Stack development, Systems Programming (OS Development), Game Development
-- 🌱 I’m currently learning Rust, Golang, Rails, Next and Vue
+- 🌱 I’m currently learning a lot
 - 💞️ I’m currently working on
-  -  Mixed Source Code Programming
-  -  Flight mode on Vim
 - 📫 How to reach me ...
 
 ---
