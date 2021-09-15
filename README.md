@@ -12,10 +12,10 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-zen&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-rust-perl&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ruby Zen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruby-rust-perl&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ruby Zen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruby-rust-perl&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruby Zen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=python_clojure&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ruby-rust-perl&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
