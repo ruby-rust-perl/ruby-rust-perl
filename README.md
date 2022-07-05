@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ruby-rust-perl/ruby-rust-perl/blob/master/devcard.svg" width="400" alt="Nivetha Thomas's DevCard"/></a>
+<img src="https://github.com/ruby-rust-perl/ruby-rust-perl/blob/main/devcard.svg" width="400" alt="Nivetha Thomas's DevCard"/>
 
 ## &#x1f4c8; My GitHub Stats
 
