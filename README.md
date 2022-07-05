@@ -1,14 +1,4 @@
-
-# The Rubyist
-
-- 👋 Hi, I’m @ruby-zen
-- 👀 I’m interested in Full-Stack development, Systems Programming (OS Development), Game Development
-- 🌱 I’m currently learning a lot
-- 💞️ I’m currently working on
-- 📫 How to reach me ...
-
----
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ruby-rust-perl/ruby-rust-perl/blob/master/devcard.svg" width="400" alt="Nivetha Thomas's DevCard"/></a>
 
 ## &#x1f4c8; My GitHub Stats
 
